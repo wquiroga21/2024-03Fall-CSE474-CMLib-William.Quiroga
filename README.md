@@ -1,2 +1,2 @@
-# 2024-03Fall-CSE474-CMLib-William.Quiroga
-Configuration Management (CM) Library for Fall '24.  
+# CM Library Project Fall '24 
+This repository contains the code and documentation for the CM Library project for CSE474.
